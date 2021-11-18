@@ -13,3 +13,6 @@
 - [PHP]
 - [MySQL]
 - [Bootstrap]
+- [JS]
+- [AJAX]
+- [JQUERY]
